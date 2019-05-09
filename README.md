@@ -4,4 +4,4 @@ https://datetimejquerypv.firebaseapp.com/
 
 # Jquery HTML/CSS
 
-Chrono date time maked with Jquery
+Chrono date time made with Jquery
